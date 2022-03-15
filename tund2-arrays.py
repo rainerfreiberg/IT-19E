@@ -1,5 +1,5 @@
-from re import X
-
+#
+#
 
 numbrid = []
 
